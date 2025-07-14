@@ -1,5 +1,16 @@
-💫 About Me:
-👋 Hi, I'm Rajguru Mathiyalagan <br><br>🎓 I'm a BSc IT student and an aspiring Data Scientist, passionate about using data to uncover insights and drive smarter decisions.<br><br>💻 What I’m Learning:<br>- Python for Data Science<br>- Data Analysis with Pandas & NumPy<br>- Data Visualization using Matplotlib & Seaborn<br>- Machine Learning basics with scikit-learn<br>- Git & GitHub for version control<br>- Exploring the fundamentals of **Deep Learning**<br>- Actively **working on real-time projects** to apply my knowledge<br>- **Seeking internship opportunities** to gain industry exposure and grow<br><br>I enjoy using data to uncover insights, build predictive models, and create impactful dashboards that communicate complex patterns simply.<br><br>---<br><br>⚡ Fun Fact:<br>I believe every dataset tells a story — and I'm learning to become the storyteller using code.
+###💫 About Me:
+👋 Hi, I'm Rajguru Mathiyalagan
+🎓 I'm a BSc IT student and an aspiring Data Scientist, passionate about using data to uncover insights and drive smarter decisions.
+💻 What I’m Learning:
+- Python for Data Science
+- Data Analysis with Pandas & NumPy
+- Data Visualization using Matplotlib & Seaborn<br>-
+- Machine Learning basics with scikit-learn<br>-
+- Git & GitHub for version control<br>-
+- Exploring the fundamentals of **Deep Learning**<br>-
+- Actively **working on real-time projects** to apply my knowledge
+- **Seeking internship opportunities** to gain industry exposure and grow
+I enjoy using data to uncover insights, build predictive models, and create impactful dashboards that communicate complex patterns simply.<br><br>---<br><br>⚡ Fun Fact:<br>I believe every dataset tells a story — and I'm learning to become the storyteller using code.
 
 
 ## 🌐 Socials:
